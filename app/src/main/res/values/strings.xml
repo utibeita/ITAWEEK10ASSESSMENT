@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ITAWEEK10 ASSESSMENT</string>
+    <string-array name="country_code">
+        <item>+234</item>
+        <item>+181</item>
+        <item>+176</item>
+    </string-array>
+</resources>
